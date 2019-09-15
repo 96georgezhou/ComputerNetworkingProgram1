@@ -1,1 +1,2 @@
 # ComputerNetworkingProgram1
+This assignment is intended for two purposes: (1) to exercise use of various socket-related system calls and (2) to evaluate dominant overheads of point-to-point communication over 1Gbps networks.
